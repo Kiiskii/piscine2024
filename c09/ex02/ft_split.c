@@ -128,6 +128,5 @@ int	main()
 		printf("%s\n", split[i]);
 		i++;
 	}
-	printf("%s", split[0]);
 }
 */
